@@ -2,6 +2,8 @@
 
 Attempting to install react-router version 4 but fail
 ```
+$ cd lab02-router-v4
+$ npm install
 $ npm start 
 
 ...
